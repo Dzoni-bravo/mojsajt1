@@ -1,0 +1,49 @@
+h1, h2, h3 {
+	width: 300px;
+	padding: 5px;
+	background-color: green;
+	color: red;
+	text-align: left;
+}
+p {
+	border:2px solid red;
+	background-color: #99ff66; 
+	padding: 5px;
+	font-family: Tahoma;
+}
+
+div{
+	font-family: Tahoma;
+	font-style: italic;
+	width: 300px;
+	background-color: #ffcc00;
+	color: red;
+}
+a {
+	float: right;
+	text-decoration: none;
+	color: red;
+}
+
+#prvi{
+	float: right;
+	width: 500px;
+	text-align: center;
+	background-color: black;
+}
+#drugi {
+	width: 500px;
+	text-align: center;
+	font-family: initial;
+}
+#tab {
+	border: 2px;
+	background-color: white;
+}
+footer {
+	color: red;
+	font-family: Tahoma;
+	font-style: italic;
+}
+
+

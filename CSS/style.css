@@ -1,0 +1,101 @@
+body{
+
+	background-image: url('Pozadina.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+h1,h2 {
+
+	color: red;
+	text-align: center;
+	background-color: #FFCC00;
+	padding: 10px;
+	border: 2px solid red;
+	margin: 4px;
+}
+h3 {
+	text-align: center;
+	border-color: blue;
+	color: #ffcc00;
+	font-family: Tahoma;
+	border-style: dashed;
+	margin-left: 10px;
+}
+p {
+	width: 1000px;
+	padding: 20px;
+	text-indent: 50px;
+	text-align: justify;
+	color: gray;
+	background-color: #FFF2C2;
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: bold;
+
+}
+
+#ars {
+	margin-top: 10px;
+	text-align: center;
+	margin-left: 150px;
+}
+
+}
+
+#para {
+	text-align: center;
+	color: black;
+	margin-bottom: 200px; 
+	margin-left: 500px;
+	font-family: sans-serif;
+	background-color: #999966;
+}
+
+#para1 {
+	text-align: center;
+	padding: 5px;
+	margin-left: 20px;
+	width: 550px;
+	height: 250px;
+}
+
+#hig {
+	margin-left: 900px;
+}
+
+}
+
+#Liv {
+	text-decoration-line: none;
+	color: orange;
+}
+
+a {
+	color: green;
+}
+
+footer{
+margin-left: 1520px;
+color: red; 
+font-weight: bold;
+font-size: 20px;
+font-family: Tohama;
+}
+
+table {
+		margin-left: 600px;
+		border: 5px solid #007acc;
+		font-size: 20px;
+		font-family: serif;
+	}
+	tr	{
+		background-color: yellow;
+	}
+	td	{
+		border: 1px dashed red;
+	}
+}
+
